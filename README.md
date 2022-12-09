@@ -1,4 +1,4 @@
-# Convolutional-neural-network
+# Convolutional neural network classifier
 Simple Java application that includes a class with main() method.
 It is implementation of convolutional neural network usage to classify test images into 3 classes.
 The current version runs already learned network.
